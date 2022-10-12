@@ -27,6 +27,5 @@ print("Number of columns:",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![output](./154482245-28aef903-6978-4dc8-a544-5052a9e479a4.png)
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
